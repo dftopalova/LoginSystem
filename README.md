@@ -5,4 +5,3 @@ Part of Login System for forum with the following users:
 -PowerUser
 -VIP user
 -Admin
-The system is implemented with inheritance.
